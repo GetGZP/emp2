@@ -1,2 +1,0 @@
-[2021-02-03 17:58:33] [restartedMain] WARN  - org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration.checkTemplateLocationExists(ThymeleafAutoConfiguration.java:105) - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
-1
